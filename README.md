@@ -1,2 +1,2 @@
 # chirpMessanger
-A simple Chirp Messanger app using MEAN stack
+A simple Chirp Messanger app using MEAN stack.
