@@ -1,2 +1,2 @@
-# chirpApp
-A simple Chirp app using MEAN stack
+# chirpMessanger
+A simple Chirp Messanger app using MEAN stack
